@@ -1,0 +1,12 @@
+:root {
+    --primary-color: rgb(239, 231, 113);
+    --accent-color: rgb(108, 188, 238);
+    --color-font: rgb(40, 39, 39);
+    --ff-primary: 'JetBrains Mono', sans-serif;
+    --fs-heading: 3rem;
+    --fs-paragraph: .89rem;
+}
+
+.flex {
+    display: flex;
+}
